@@ -23,8 +23,11 @@ Este projeto utiliza Python e as bibliotecas Gradio, Requests e Groq.
    ```powershell
    python main.py
    ```
+4. Exemplo da Tela
+   
+![image](https://github.com/user-attachments/assets/674aebc4-993f-43b3-a3aa-0d5360255bc8)
 
-4. **Acesse a interface (se aplicável):**
+5. **Acesse a interface (se aplicável):**
    - Se a aplicação rodar um servidor web (ex: Gradio), o terminal mostrará um link para acessar no navegador.
 
 ## Observações
